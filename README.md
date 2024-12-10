@@ -1,4 +1,4 @@
-# sostenibilidad_en_el_desempe-o_profesional_y_personal
+# Sostenibilidad en el desempeño profesional y personal
 
 1.1. Introducción  
 1.2. Desempeño profesional y personal.  
