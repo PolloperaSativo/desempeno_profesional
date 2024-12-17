@@ -10,3 +10,15 @@ Mapa conceptual
 Glosario  
 Referencias  
 Autores
+
+
+
+
+
+
+4.-¿Qué sector comprende todas las actividades relacionadas con la industria química, la siderurgíca, la meánica, la textil, o la producción de bienes de consumo?
+
+5.- El hecho de informar a las personas sobre las amenazas a las que se enfrenta la biodiversidad, como la pérdia de los hábitats o el cambio climático, ¿a qué se corresponde?
+
+
+10.- ¿Con qué ODS está relacionado la industria, la innovación y la infraestructura?.
