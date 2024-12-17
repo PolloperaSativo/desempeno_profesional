@@ -1,6 +1,6 @@
 # Mapa conceptual
 
-![imagen](https://github.com/user-attachments/assets/5d67b981-b14d-4f13-a8f1-82668054a769)
+![imagen](https://github.com/user-attachments/assets/2255abe6-0e91-40f2-8861-3202ea54d4f3)
 
 
 
