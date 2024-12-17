@@ -23,3 +23,7 @@ Otro aspecto importante es el consumo consciente. Antes de adquirir un producto,
 </p>
 
 Por último, crear hábitos que fomenten la conexión con el entorno natural, como participar en actividades al aire libre o involucrarse en iniciativas comunitarias de reforestación o limpieza, no solo beneficia al medio ambiente, sino que también fortalece nuestra relación con la naturaleza y nos motiva a cuidarla.
+
+<p align="center">
+  <img src="/img/refo.png" alt="refo" style="width: 300px; height: auto;" />
+</p>
