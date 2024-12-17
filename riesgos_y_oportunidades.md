@@ -10,4 +10,10 @@ Los Objetivos de Desarrollo Sostenible (ODS) representan un marco integral para 
 
 Entre los principales riesgos asociados a los ODS se encuentra la posibilidad de que los avances sean desiguales entre países o regiones, perpetuando o incluso agravando las desigualdades existentes. La falta de recursos financieros y tecnológicos en algunos contextos puede dificultar la implementación de soluciones efectivas, especialmente en países en desarrollo. Asimismo, existe el riesgo de que algunos objetivos entren en conflicto entre sí, como cuando el crecimiento económico no se alinea con las metas ambientales, generando dilemas difíciles de resolver. La falta de cooperación internacional o la insuficiente voluntad política también pueden obstaculizar el progreso.
 
+
+<p align="center">
+  <img src="/img/coop.png" alt="coop" style="width: 300px; height: auto;" />
+</p>
+
+
 Por otro lado, los ODS presentan oportunidades significativas para transformar las sociedades y los sistemas económicos hacia modelos más sostenibles e inclusivos. Su enfoque multidimensional incentiva la innovación, la colaboración y el desarrollo de nuevas tecnologías que pueden mejorar la calidad de vida mientras se preserva el medio ambiente. Además, ofrecen un marco para que empresas y gobiernos adopten prácticas más responsables, lo que a su vez puede abrir nuevos mercados y generar empleos en sectores relacionados con la sostenibilidad. La integración de los ODS en las estrategias corporativas y políticas públicas también fomenta una mayor transparencia y rendición de cuentas, lo que beneficia a toda la sociedad.
