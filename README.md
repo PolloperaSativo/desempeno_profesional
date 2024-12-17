@@ -12,7 +12,7 @@ Referencias
 Autores
 
 
-1.- ¿Qué son los ODS?
+
 
 2.- ¿Cómo se detectan los riesgos en sostenibilidad en una empresa?
 
