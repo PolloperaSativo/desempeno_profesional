@@ -1,6 +1,6 @@
 # Sostenibilidad en el desempeño profesional y personal
 
-[1.1. Introducción](desempeno_profesional/introduccion)  
+[1.1. Introducción](introduccion.md)  
 1.2. Desempeño profesional y personal.  
 1.3. Riesgos y oportunidades que representan los ODS.  
 1.4. Medidas y oportunidades para atender los retos ambientales desde el entorno personal y profesional.  
