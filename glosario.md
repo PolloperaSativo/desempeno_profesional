@@ -1,5 +1,3 @@
-# Glosario
-
 <p align="center">
   <img src="/img/glosario.jpeg" alt="![glosario](/img/glosario.jpeg)" />
 </p>  
