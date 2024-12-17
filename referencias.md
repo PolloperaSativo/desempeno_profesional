@@ -8,4 +8,5 @@
 [Medidas Sostenibilidad](https://www.pactomundial.org/noticia/cuales-son-las-medidas-de-sostenibilidad-mas-implantadas-por-las-empresas/)  
 [Wikipedia](https://es.wikipedia.org/wiki/Sostenibilidad)  
 [Ecolec](https://ecolec.es/greenblog/actualidad/habitos-sostenibles/)  
-[Neoenergia](https://www.neoenergia.com/es/w/consumo-consciente)
+[Neoenergia](https://www.neoenergia.com/es/w/consumo-consciente)  
+[Linkedin](https://es.linkedin.com/advice/1/how-do-you-manage-sdg-risks-business-innovation?lang=es)
