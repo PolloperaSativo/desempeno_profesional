@@ -9,4 +9,5 @@
 [Wikipedia](https://es.wikipedia.org/wiki/Sostenibilidad)  
 [Ecolec](https://ecolec.es/greenblog/actualidad/habitos-sostenibles/)  
 [Neoenergia](https://www.neoenergia.com/es/w/consumo-consciente)  
-[Linkedin](https://es.linkedin.com/advice/1/how-do-you-manage-sdg-risks-business-innovation?lang=es)
+[Linkedin](https://es.linkedin.com/advice/1/how-do-you-manage-sdg-risks-business-innovation?lang=es)  
+[Telefonica](https://www.telefonicaempresas.es/grandes-empresas/blog/ods-oportunidad-cambiar-mundo/)
