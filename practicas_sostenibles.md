@@ -13,7 +13,7 @@ La alimentación es otra área clave para aplicar la sostenibilidad. Optar por u
 En cuanto a la movilidad, optar por medios de transporte sostenibles como caminar, usar la bicicleta o el transporte público ayuda a disminuir la contaminación del aire y a reducir las emisiones de carbono. Si es necesario usar un vehículo, compartir el viaje con otros o utilizar vehículos eléctricos son opciones más sostenibles.
 
 <p align="center">
-  <img src="/img/bici.png" alt="Bici" style="width: 300px; height: auto;" />
+  <img src="/img/bici2.png" alt="Bici" style="width: 300px; height: auto;" />
 </p>
 
 Otro aspecto importante es el consumo consciente. Antes de adquirir un producto, es útil reflexionar sobre su necesidad, su durabilidad y su impacto ambiental. Apoyar marcas o empresas que implementen prácticas sostenibles y priorizar productos con certificaciones ecológicas son formas de incentivar un mercado más responsable.
