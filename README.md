@@ -20,7 +20,6 @@ Autores
 
 5.- El hecho de informar a las personas sobre las amenazas a las que se enfrenta la biodiversidad, como la pérdia de los hábitats o el cambio climático, ¿a qué se corresponde?
 
-6.- Las empresas deben lograr que su actividad principal sea sostenible. ¿Cómo se puede conseguir?
 
 8.- La educación es la mejor oportunidad para cambiar el mundo y, por ello, se debe potenciar la formación en temas relacionados con el medioambiente.
 
