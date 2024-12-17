@@ -7,3 +7,4 @@
 [Retos Ambientales](https://campusformaciongranada.es/wp-content/uploads/2024/11/Tema-2-sostenibilidad-.pdf)  
 [Medidas Sostenibilidad](https://www.pactomundial.org/noticia/cuales-son-las-medidas-de-sostenibilidad-mas-implantadas-por-las-empresas/)  
 [Wikipedia](https://es.wikipedia.org/wiki/Sostenibilidad)  
+[Ecolec](https://ecolec.es/greenblog/actualidad/habitos-sostenibles/)
