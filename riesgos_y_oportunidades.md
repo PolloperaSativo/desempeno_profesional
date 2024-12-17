@@ -17,3 +17,8 @@ Entre los principales riesgos asociados a los ODS se encuentra la posibilidad de
 
 
 Por otro lado, los ODS presentan oportunidades significativas para transformar las sociedades y los sistemas económicos hacia modelos más sostenibles e inclusivos. Su enfoque multidimensional incentiva la innovación, la colaboración y el desarrollo de nuevas tecnologías que pueden mejorar la calidad de vida mientras se preserva el medio ambiente. Además, ofrecen un marco para que empresas y gobiernos adopten prácticas más responsables, lo que a su vez puede abrir nuevos mercados y generar empleos en sectores relacionados con la sostenibilidad. La integración de los ODS en las estrategias corporativas y políticas públicas también fomenta una mayor transparencia y rendición de cuentas, lo que beneficia a toda la sociedad.
+
+<p align="center">
+  <img src="/img/inno.jpg" alt="inno" style="width: 400px; height: auto; margin-right: 20px;" />
+  <img src="/img/colab.png" alt="colab" style="width: 400px; height: auto;" />
+</p>
